@@ -1,0 +1,7 @@
+Compile with:
+
+g++ *.cpp -o OS
+
+
+Run with:
+./OS
